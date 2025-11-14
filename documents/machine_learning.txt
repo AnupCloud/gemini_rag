@@ -1,0 +1,55 @@
+Machine Learning Fundamentals
+
+Machine Learning (ML) is a subset of artificial intelligence that enables systems to learn and improve from experience without being explicitly programmed.
+
+Types of Machine Learning:
+
+1. Supervised Learning
+   - Uses labeled training data
+   - Algorithm learns mapping from inputs to outputs
+   - Examples: Classification, Regression
+   - Common algorithms: Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines, Neural Networks
+
+2. Unsupervised Learning
+   - Works with unlabeled data
+   - Finds hidden patterns or structures
+   - Examples: Clustering, Dimensionality Reduction
+   - Common algorithms: K-Means, Hierarchical Clustering, PCA, t-SNE
+
+3. Reinforcement Learning
+   - Learns through interaction with environment
+   - Uses reward/penalty system
+   - Examples: Game playing, Robotics
+   - Common approaches: Q-Learning, Deep Q-Networks, Policy Gradients
+
+Key Concepts:
+
+Training and Testing:
+- Dataset split into training and testing sets
+- Training set used to build the model
+- Test set used to evaluate performance
+- Common split ratio: 70-30 or 80-20
+
+Feature Engineering:
+- Process of selecting and transforming variables
+- Critical for model performance
+- Includes normalization, encoding, and feature creation
+
+Model Evaluation:
+- Accuracy: Proportion of correct predictions
+- Precision: True positives / (True positives + False positives)
+- Recall: True positives / (True positives + False negatives)
+- F1-Score: Harmonic mean of precision and recall
+- Cross-validation for robust evaluation
+
+Overfitting and Underfitting:
+- Overfitting: Model too complex, performs well on training but poor on test data
+- Underfitting: Model too simple, poor performance on both training and test data
+- Regularization techniques help prevent overfitting
+
+Popular ML Libraries:
+- scikit-learn: General-purpose ML library
+- TensorFlow: Deep learning framework by Google
+- PyTorch: Deep learning framework by Meta
+- Keras: High-level neural networks API
+- XGBoost: Gradient boosting library
