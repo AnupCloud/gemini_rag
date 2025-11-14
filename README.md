@@ -261,14 +261,6 @@ Replace these with your own documents to create a custom knowledge base.
 - [Google GenAI Python SDK](https://github.com/googleapis/python-genai)
 - [API Reference](https://googleapis.github.io/python-genai/)
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs and issues
-- Suggest new features
-- Submit pull requests
-- Improve documentation
-
 ## 📄 License
 
 MIT License - see LICENSE file for details
